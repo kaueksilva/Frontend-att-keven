@@ -1,0 +1,33 @@
+{
+  "allocations": [
+    {
+      "professorId": "kjU9Gl66icw",
+      "courseId": "O04M7YwDG74",
+      "dayOfWeek": "MONDAY",
+      "startHour": "16:00",
+      "endHour": "20:00",
+      "id": "eyS-lpr2uL8"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Engenharia de Software",
+      "id": "O04M7YwDG74"
+    }
+  ],
+  "departments": [
+    {
+      "name": "Programação",
+      "id": "36mvo0SU5u4"
+    }
+  ],
+  "professors": [
+    {
+      "name": "Kauê Silva Nascimento",
+      "cpf": "123.213.123-21",
+      "departmentId": "36mvo0SU5u4",
+      "id": "kjU9Gl66icw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
