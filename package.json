@@ -21,7 +21,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "concurrently": "^10.0.5",
-    "json-server": "^1.0.0-beta.15",
+    "json-server": "^0.17.4",
     "lucide-react": "^1.48.0",
     "postcss": "^8.5.28",
     "react": "^19.2.8",
